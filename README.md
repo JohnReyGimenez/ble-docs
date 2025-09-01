@@ -1,11 +1,24 @@
-# BLE Docs
+# BLE Attendance System
 
-This repository contains documentation, diagrams, and research notes for the BLE Attendance System project.
+## 📖 Overview
+A Bluetooth Low Energy (BLE)-based attendance monitoring system that uses ESP32 scanners and custom BLE tags. Data is transmitted to a Rails backend, which provides APIs for a web and mobile front-end.
 
-System architecture diagrams
+## System Overview
 
-How to build & deploy
 
-Research references
+## System Architecture
+Below is the system architecture diagram, showing how all the components connect:
 
-API documentation
+![System Architecture](docs/system_architecture.png)
+
+## Design Diagram
+This diagram explains the flow of data between modules:
+
+
+## 🚀 Tech Stack
+- **Backend**: Ruby on Rails (API mode)
+- **Frontend**: React (Web), React Native (Mobile)
+- **Hardware**: ESP32, nRF52832-based BLE tags
+- **Database**: PostgreSQL
+
+
