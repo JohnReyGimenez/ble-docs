@@ -9,7 +9,6 @@ A Bluetooth Low Energy (BLE)-based attendance monitoring system that uses ESP32 
 ## System Architecture
 Below is the system architecture diagram, showing how all the components connect:
 
-![System Architecture](docs/system_architecture.png)
 
 ## Design Diagram
 This diagram explains the flow of data between modules:
