@@ -14,7 +14,7 @@ Below is the system architecture diagram, showing how all the components connect
 This diagram explains the flow of data between modules:
 
 
-## 🚀 Tech Stack
+## Tech Stack
 - **Backend**: Ruby on Rails (API mode)
 - **Frontend**: React (Web), React Native (Mobile)
 - **Hardware**: ESP32, nRF52832-based BLE tags
