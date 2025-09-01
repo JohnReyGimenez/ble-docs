@@ -1,6 +1,6 @@
 # BLE Attendance System
 
-## 📖 Overview
+## Overview
 A Bluetooth Low Energy (BLE)-based attendance monitoring system that uses ESP32 scanners and custom BLE tags. Data is transmitted to a Rails backend, which provides APIs for a web and mobile front-end.
 
 ## System Overview
