@@ -15,7 +15,7 @@ This diagram explains the flow of data between modules:
 
 
 ## Tech Stack
-- **Backend**: Ruby on Rails (API mode)
+- **Backend**: Ruby on Rails
 - **Frontend**: React (Web), React Native (Mobile)
 - **Hardware**: ESP32, nRF52832-based BLE tags
 - **Database**: PostgreSQL
